@@ -12,3 +12,4 @@ out/
 *.dot
 .hgignore
 .hg
+.DS_Store
